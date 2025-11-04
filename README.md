@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kush11-m&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @kush11m's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kush11m)](https://holopin.io/@kush11m)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
