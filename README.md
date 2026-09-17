@@ -1,21 +1,82 @@
-                    KUSHAGRA MAHESHWARI
-        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-             I BUILD THINGS THAT FEEL ALIVE.
+<h1>
+  KUSHAGRA MAHESHWARI
+</h1>
 
-     Full-Stack Developer  ·  AI Engineer  ·  Designer
+<h3>
+  FULL-STACK DEVELOPER &nbsp;•&nbsp; AI BUILDER &nbsp;•&nbsp; CREATIVE TECHNOLOGIST
+</h3>
 
-     Turning ambitious ideas into polished digital products
-              with code, AI, and questionable amounts
-                         of caffeine.
+<p>
+  I build intelligent, beautifully designed digital products.<br>
+  From <b>pixel-perfect interfaces</b> to <b>AI-powered systems</b>,
+  I like taking ideas from concept to something people actually want to use.
+</p>
 
-        ┌─────────────────────────────────────────┐
-        │  React        Next.js        TypeScript  │
-        │  Node.js      Python         Supabase    │
-        │  PostgreSQL   PyTorch        LLMs        │
-        │  AI Agents    RAG            Docker      │
-        └─────────────────────────────────────────┘
+<br>
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+<b>⚡ FULL-STACK</b><br>
+<sub>Frontend → Backend → DB</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<b>🤖 AI</b><br>
+<sub>LLMs → Agents → ML</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<b>🎨 DESIGN</b><br>
+<sub>UI → UX → Motion</sub>
+
+</td>
+
+<td align="center" width="25%">
+
+<b>🚀 BUILD</b><br>
+<sub>Idea → Product</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<code>React</code>
+&nbsp;
+<code>Next.js</code>
+&nbsp;
+<code>TypeScript</code>
+&nbsp;
+<code>Python</code>
+&nbsp;
+<code>Node.js</code>
+&nbsp;
+<code>PostgreSQL</code>
+&nbsp;
+<code>PyTorch</code>
+&nbsp;
+<code>LLMs</code>
+&nbsp;
+<code>AI Agents</code>
+
+<br><br>
+
+<sub>
+Design it. Build it. Make it intelligent. Ship it.
+</sub>
+
+</div>
+
+<hr>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/kushagrmaheshw2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kushagrraa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kushm11/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushagramaheshwari584@gmail.com) 
