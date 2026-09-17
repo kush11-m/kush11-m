@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack projects and exploring AI-powered product ideas<br><br>👯 I’m looking to collaborate on<br>Open-source tools, AI/ML projects, and modern web applications<br><br>🤝 I’m looking for help with<br>Scaling real-world projects, system design, and cloud-based architectures<br><br>🌱 I’m currently learning<br>Advanced JavaScript, React ecosystem, backend engineering, and AI concepts<br><br>💬 Ask me about<br>Web dev, UI/UX, tech strategy, productivity, and building personal projects<br><br>⚡ Fun fact<br>I get obsessed with ideas and end up building them instead of just planning 😄
+                    KUSHAGRA MAHESHWARI
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+             I BUILD THINGS THAT FEEL ALIVE.
+
+     Full-Stack Developer  ·  AI Engineer  ·  Designer
+
+     Turning ambitious ideas into polished digital products
+              with code, AI, and questionable amounts
+                         of caffeine.
+
+        ┌─────────────────────────────────────────┐
+        │  React        Next.js        TypeScript  │
+        │  Node.js      Python         Supabase    │
+        │  PostgreSQL   PyTorch        LLMs        │
+        │  AI Agents    RAG            Docker      │
+        └─────────────────────────────────────────┘
 
 
 ## 🌐 Socials:
