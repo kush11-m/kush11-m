@@ -22,11 +22,11 @@ I'm constantly learning, experimenting, and building - whether that's exploring 
 
 ## What I Build
 
-* 🤖 **AI & Generative AI** — LLM applications, AI agents, intelligent automation
-* 💻 **Full-Stack Applications** — scalable web apps, APIs, databases & authentication
-* 🎨 **Frontend Experiences** — modern interfaces with React, Next.js & TypeScript
-* ✨ **UI/UX & Product Design** — clean, intuitive and visually polished experiences
-* ⚙️ **Creative Technology** — combining engineering, AI and design to build new experiences
+* 🤖 **AI & Generative AI** - LLM applications, AI agents, intelligent automation
+* 💻 **Full-Stack Applications** - scalable web apps, APIs, databases & authentication
+* 🎨 **Frontend Experiences** - modern interfaces with React, Next.js & TypeScript
+* ✨ **UI/UX & Product Design** - clean, intuitive and visually polished experiences
+* ⚙️ **Creative Technology** - combining engineering, AI and design to build new experiences
 
 ---
 
